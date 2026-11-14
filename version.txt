@@ -1,0 +1,3 @@
+version=1.0.0
+url=https://raw.githubusercontent.com/itsthepoopooman/games/main/dog_man.exe
+sha256=F42606B84A5EB002C4FFA5D307D56C221422FF9DBFFD8BC705FB08E62F491C1B
